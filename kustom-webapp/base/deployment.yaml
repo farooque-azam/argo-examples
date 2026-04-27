@@ -19,5 +19,5 @@ spec:
             memory: "52Mi" 
             cpu: "50m"    # 500milliCPUs (1/2 CPU)
           limits:
-            memory: "128Mi"
+            memory: "256Mi"
             cpu: "100m"
