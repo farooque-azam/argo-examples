@@ -10,3 +10,7 @@ configmap:
 image:
   name: devopsjourney1/mywebapp
   tag: latest
+
+resources:
+  limits:
+    memory: 256Mi
